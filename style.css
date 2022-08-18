@@ -120,6 +120,7 @@ h1{
 #payment>a{
     text-decoration: none;
     color: #fff;
+    font-weight: 700;
 }
 
 #payment:hover{
